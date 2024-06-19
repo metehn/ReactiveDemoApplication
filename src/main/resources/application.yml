@@ -1,0 +1,9 @@
+spring:
+  r2dbc:
+    url: r2dbc:mysql://localhost:3306/springdb
+    username: root
+    password: rhqo5_gWw%u#
+  flyway:
+    url: jdbc:mysql://localhost:3306/springdb
+    user: root
+    password: rhqo5_gWw%u#
